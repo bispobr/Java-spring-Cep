@@ -25,11 +25,6 @@ API contem o seguinte endpoints:
 
 ```http request
 GET /Busca-cep/{cep} - Retorna os dados do CEP.
-Content-Type: application/json
-
-{
- 	"cep": "String"
-}
 ```
 | Parâmetro | Tipo     | Descrição                           |
 |:----------|:---------| :---------------------------------- |
